@@ -1,4 +1,4 @@
-Drip Math
+**Drip Math**
 
 DripMath, a minimalist iOS pour-over calculator app using MVVM. It is interactive so that as soon as the user types in the coffee weight, it gives back the water weigth in real time.
 
